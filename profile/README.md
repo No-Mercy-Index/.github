@@ -1,4 +1,4 @@
-# No Mercy  
+# No Mercy 🔞
 *A Choice-Driven Adult Visual Novel*  
 **By Zerat Games** | **Steam Release** | **Genre: Adult Visual Novel**  
 
@@ -42,8 +42,8 @@
 ---
 
 ## 💬 **Join 50,000+ Players**  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/zerat)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/zeratgames)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/t4kmCEQP2x)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://discord.com/invite/t4kmCEQP2x)  
 
 ---
 
@@ -59,7 +59,7 @@
 ✓ 4K Texture Pack Support  
 ✓ 15+ Bug Fixes  
 ✓ Improved Lip Sync  
-*(Full [Patch Notes](https://example.com/patch-notes))*  
+*(Full [Patch Notes](https://tinyurl.com/4b5ns27f))*  
 
 ---
 
